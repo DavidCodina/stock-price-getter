@@ -1,0 +1,1 @@
+import{p as r,b as o}from"./p-7562b88f.js";(()=>{const o=import.meta.url,t={};return""!==o&&(t.resourcesUrl=new URL(".",o).href),r(t)})().then((r=>o([["p-6649b8d6",[[1,"stock-price",{stockPrice:[32],stockUserInput:[32],inputError:[32],stockSymbol:[32]}]]]],r)));
